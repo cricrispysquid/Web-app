@@ -8,3 +8,4 @@ tensorflow-cpu
 streamlit_drawable_canvas
 scikit-learn
 matplotlib
+steamlit
